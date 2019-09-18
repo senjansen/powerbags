@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 1.89;
+}
+.header-offer {
+    background-color: #808d8a;
+    text-align: center;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #FFF;
+    padding-top: 15px;
+    padding-bottom: 15px; 
+}
+.logo {
+    text-align: center;
+    margin: 50px 0;
+}
+.menu {
+    border-top: 1px solid #5F5F5D;
+    border-bottom: 1px solid #5F5F5D;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    left: 33%;
+}
+li {
+    float: left;
+}
+li a {
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+    font-weight: 700;
+    color: #003047;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#product .container {
+    width: 1200px;
+    margin: auto;
+}
+#product .row {
+    margin-top: 60px;
+}
+#product .col {
+    width: 275px;
+    float: left;
+    padding-right: 25px;
+    text-align: center;
+    margin-bottom: 30px;
+}
