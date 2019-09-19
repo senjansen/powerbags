@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size-adjust: inherit
+  }
+  
+  .image-container-1 {
+    margin: 50px 50px;
+    margin-bottom: 0px;
+    width: 92.3%;
+  }
+  
+  
+  .image1-1 {
+    width: 36%;
+    display: inline-block;
+    padding: 0px 28px;
+  }
+  
+  .image1-2 {
+    width: 27%;
+    display: inline-block;
+    padding: 0px 28px;
+  }
+  
+  .image1-3 {
+    width: 20.19%;
+    display: inline-block;
+    padding: 0px 28px;
+  }
+  
+  .text-1 {
+    margin: 10px 100px;
+    text-align: center;
+  }
+  
+  .gif-container-1 {
+    margin: 50px 50px;
+    margin-bottom: 0px;
+  }
+  
+  .gif-1 {
+    width: 30%;
+    display: inline-block;
+    padding: 0px 10px;
+  }
+  
+  
+  .text-2 {
+    margin: 10px 100px;
+    text-align: center;
+  }
