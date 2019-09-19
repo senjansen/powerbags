@@ -97,6 +97,13 @@ li a {
     font-size: medium;
 }
 
+#store {
+    width: 360px;
+    height: 240px;
+    display: block;
+    margin: 0 auto;
+}
+
 #store img {
     display: block;
     margin: 0 auto;
@@ -105,4 +112,15 @@ li a {
     height: 240px;
     padding-top: 25px;
     padding-bottom: 100px;
+}
+
+.column img {
+    -webkit-transition: 0.2s ease;
+    transition: 0.2s ease;
+    width: 700px;
+}
+   
+.zoom-effect:hover .column img {
+    -webkit-transform: scale(1.08);
+    transform: scale(1.08);
 }
