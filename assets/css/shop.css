@@ -58,9 +58,9 @@ li a {
 #product .col {
     width: 275px;
     float: left;
-    padding-right: 25px;
     text-align: center;
     margin-bottom: 30px;
+    margin-right: 25px;
 }
 .product-title {
     font-family: "ITC Franklin Gothic W01",Helvetica,Arial,sans-serif;
